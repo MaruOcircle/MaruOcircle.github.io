@@ -1,6 +1,6 @@
 ---
-layout:default
-title:トップ
+layout: default
+title: トップ
 ---
 
 ##MaruOcircleのページ
