@@ -3,5 +3,5 @@ layout: default
 title: トップ
 ---
 
-##MaruOcircleのページ
+## MaruOcircleのページ
 Gitやプログラミングなどの練習のためのページ
