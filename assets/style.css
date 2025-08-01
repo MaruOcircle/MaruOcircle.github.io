@@ -7,11 +7,12 @@
 
 .menu_slot{
   display: flex;
+  justify-content: center;
   padding: 10px;
 }
 
 a.menu{
-  font-size: 1.6rem;
+  font-size: 1.0rem;
   font-weight: 700;
   line-height: 1.5;
   position: relative;
