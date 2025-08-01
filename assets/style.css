@@ -6,11 +6,6 @@
 }
 
 .menu{
-  display: flex;
-  justify-content: center;
-}
-
-a.btn{
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
