@@ -4,3 +4,19 @@
   margin-right: auto;
   margin-left: auto;
 }
+
+#menu{
+  display: flex;
+  justify-content: center;
+}
+
+a.top_bottun{
+  border: 2px solid #000;
+  border-radius: 0;
+  background: #fff;
+}
+
+a.top_bottun:hover{
+  color: #fff;
+  background: #000;
+}
