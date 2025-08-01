@@ -8,7 +8,7 @@
 .menu_slot{
   display: flex;
   justify-content: center;
-  padding: 10px;
+  padding: 1.0em;
 }
 
 a.menu{
@@ -17,7 +17,7 @@ a.menu{
   line-height: 1.5;
   position: relative;
   display: inline-block;
-  padding: 1rem 4rem;
+  padding: 0.5rem 1.5rem;
   cursor: pointer;
   user-select: none;
   transition: all 0.3s;
