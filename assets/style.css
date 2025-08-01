@@ -10,13 +10,13 @@
   justify-content: center;
 }
 
-a.top_bottun{
+a.top_button{
   border: 2px solid #000;
   border-radius: 0;
   background: #fff;
 }
 
-a.top_bottun:hover{
+a.top_button:hover{
   color: #fff;
   background: #000;
 }
