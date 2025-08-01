@@ -7,8 +7,7 @@
 
 .menu_slot{
   display: flex;
-  justify-content: center;
-  padding: 1.0em;
+  justify-content: right;
 }
 
 a.menu{
@@ -17,7 +16,7 @@ a.menu{
   line-height: 1.5;
   position: relative;
   display: inline-block;
-  padding: 0.5rem 1.5rem;
+  padding: 8px 24px;
   cursor: pointer;
   user-select: none;
   transition: all 0.3s;
@@ -30,6 +29,7 @@ a.menu{
 }
 
 a.top_button{
+  margin-left: 0.5rem;
   border: 2px solid #000;
   border-radius: 0;
   background: #fff;
