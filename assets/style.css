@@ -5,6 +5,11 @@
   margin-left: auto;
 }
 
+.menu_slot{
+  display: flex;
+  padding: 10px;
+}
+
 a.menu{
   font-size: 1.6rem;
   font-weight: 700;
