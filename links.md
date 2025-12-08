@@ -7,7 +7,7 @@ litlink https://lit.link/MaruOcircle <br>
 X/Twitter [@MaruOcircle](https://x.com/MaruOcircle) <br>
 X/Twitter_Sub [@MaruOcirklo](https://x.com/MaruOcirklo) <br>
 Misskey.io [@MaruOcircle@misskey.io](https://misskey.io/@MaruOcircle) <br>
-BlueSky [@maruocircle.bsky.social](https://bsky.app/profile/maruocircle.bsky.social) <br>
+BlueSky [@MaruOcircle.bsky.social](https://bsky.app/profile/maruocircle.bsky.social) <br>
 mixi2 [@MaruOcircle](https://mixi.social/@MaruOcircle) <br>
 VRChat [MaruOcircle](https://vrchat.com/home/user/usr_b5b641a3-3f3a-41f3-a259-c2d7a40b88b9) <br>
 YouTube [Maru](https://www.youtube.com/@MaruOcircle) <br>
