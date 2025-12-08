@@ -6,7 +6,7 @@ title: リンク
 ## リンクまとめ
 
 #### より整った形式のリンク集はこちらにて
-litlink https://lit.link/MaruOcircle <br>
+litlink (https://lit.link/MaruOcircle) <br>
 
 #### よく使うもの
 X/Twitter [@MaruOcircle](https://x.com/MaruOcircle) <br>
