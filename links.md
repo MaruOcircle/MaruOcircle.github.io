@@ -31,3 +31,7 @@ Submarin [@MaruOcircle@submarin.online](https://submarin.online/@MaruOcircle) <b
 のえすきー [@MaruOcircle@misskey.noellabo.jp](https://misskey.noellabo.jp/@MaruOcircle) <br>
 はなみすきー [@MaruOcircle@misskey.flowers](https://misskey.flowers/@MaruOcircle) <br>
 prismisskey [@MaruOcircle@prismisskey.space](https://prismisskey.space/@MaruOcircle) <br>
+隠れ家 [@MaruOcircle@misskey.yukineko.me](https://misskey.yukineko.me/@MaruOcircle) <br>
+
+mstdn.jp [@MaruOcircle@mstdn.jp](https://mstdn.jp/@MaruOcircle) <br>
+Fedibird [@MaruOcircle@fedibird.com](https://fedibird.com/web/accounts/108194791031388938/about#) <br>
